@@ -1,4 +1,5 @@
 ## Getting Started
+This is the backend project of the Repo Search app. The frontend can be found [here](https://github.com/hanibhat/repo-search-react).
 
 ### Prerequisites
 
